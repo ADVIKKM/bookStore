@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Whispers of the Banyan Tree",
+    "title": "A collection of heartfelt stories from a small Indian village where every tree, breeze, and street has a secret to tell.",
+    "price": 0,
+    "category": "story",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Echoes in Ink",
+    "title": "A journey through emotions, seasons, and self-discovery told through lyrical verses.",
+    "price": 0,
+    "category": "poem",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Curtains of Silence",
+    "title": "A gripping play about a dysfunctional family confronting long-buried truths during a stormy night.",
+    "price": 0,
+    "category": "drama",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Through My Eyes",
+    "title": "The true story of a young woman navigating identity, purpose, and resilience in a fast-changing world.",
+    "price": 0,
+    "category": "autobiography",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Rise Anyway",
+    "title": "A powerful guide to overcoming self-doubt, fear, and failure — and building the mindset to thrive no matter what life throws at you.",
+    "price": 0,
+    "category": "motivation",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Chasing Greatness",
+    "title": "An inspiring journey through the lives of legendary athletes who turned their struggles into records.",
+    "price": 0,
+    "category": "sports",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Behind the Spotlight",
+    "title": "A backstage pass to the highs and lows of the entertainment industry, from fame to burnout.",
+    "price": 0,
+    "category": "entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Laughing Through Life",
+    "title": "A hilarious take on everyday situations, turning chaos into comedy with wit and charm.",
+    "price": 0,
+    "category": "comedy",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Shadows in the Fog",
+    "title": "A chilling tale of a town haunted by whispers, secrets, and something far more sinister lurking in the dark.",
+    "price": 0,
+    "category": "horror",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Grow Through What You Go Through",
+    "title": "A gentle guide to healing, reflection, and becoming the strongest version of yourself.",
+    "price": 0,
+    "category": "self help",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Echoes of Empires",
+    "title": "A sweeping narrative of ancient civilizations, forgotten battles, and how history shapes us today.",
+    "price": 0,
+    "category": "history",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 12,
+    "name": "The Last Ember",
+    "title": "A beautifully written novel of love, loss, and magic in a world where one spark can change everything.",
+    "price": 0,
+    "category": "fiction",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1490044219.1747724749&semt=ais_hybrid&w=740"
+  }
+]
